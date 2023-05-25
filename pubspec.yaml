@@ -1,4 +1,4 @@
-name: lunar_AI
+name: chat_gpt_sdk
 description: A new Flutter project.
 
 publish_to: "none"
@@ -9,8 +9,9 @@ environment:
   sdk: ">=2.18.6 <3.0.0"
 
 dependencies:
-  git:
-    url: https://github.com/jempress/lunar_AI.git
+  lunar_AI:
+    git:
+      url: https://github.com/jempress/lunar_AI.git
   flutter:
     sdk: flutter
   flutter_dotenv: ^5.0.2
