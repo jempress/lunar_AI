@@ -10,6 +10,7 @@ environment:
 
 dependencies:
 flutter:
+    sdk: flutter
     git:
       url: https://github.com/jempress/lunar_AI.git
   flutter:
