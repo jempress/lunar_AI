@@ -17,6 +17,8 @@ dependencies:
   flutter_dotenv: ^5.0.2
   velocity_x: ^3.6.0
   cupertino_icons: ^1.0.2
+  flutter_dotenv: ^5.0.2
+
 
 dev_dependencies:
   flutter_lints: ^2.0.0
