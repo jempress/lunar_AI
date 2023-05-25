@@ -9,7 +9,7 @@ environment:
   sdk: ">=2.18.6 <3.0.0"
 
 dependencies:
-  lunar_AI:
+  chat_gpt_sdk:
     git:
       url: https://github.com/jempress/lunar_AI.git
   flutter:
